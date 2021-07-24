@@ -1,0 +1,6 @@
+{
+    "watch": ["app/**/*", "app/*.ts", "./*.ts", "./*.json"],
+    "exec": "ts-node -r tsconfig-paths/register ./app/index.ts",
+    "ext": "ts,json"
+  }
+  
